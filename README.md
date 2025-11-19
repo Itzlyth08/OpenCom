@@ -3,7 +3,7 @@
 
 #### OpenCom is a compact, open-hardware handheld device built around the Radxa Zero 2 Pro, featuring:
 - A phone-style MIPI DSI display
-- LoRa (SX1262/RFM95) for off-grid communication
+- LoRa (RFM95) for off-grid communication
 - Wi-Fi 5 for networking
 - A custom carrier PCB to interface components
 - A slim, phone-like enclosure
